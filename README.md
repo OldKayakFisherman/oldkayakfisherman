@@ -1,3 +1,7 @@
+
+<p align="center"><img src="AvatarMaker.svg" width="100"/></p>
+
+
 ### Hi there 👋
 
 <!--
