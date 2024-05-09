@@ -1,5 +1,5 @@
 
-<p align="center"><img style="border-radius: 50%" src="AvatarMaker.svg" width="100"/></p>
+<p align="center"><img style="border-radius: 50%;" src="AvatarMaker.svg" width="100"/></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rick-flagg-289110115/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
