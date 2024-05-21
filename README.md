@@ -24,7 +24,21 @@ dynamic, well tested, data driven enterprise applications using .NET and Python 
 - 🔭 I’m currently working on supporting the Census [Decennial Census Digitization and Linkage (DCDL) Project](https://www.census.gov/programs-surveys/dcdl.html)
 in creating python based indexing and workflow tools that index and process over 4 Petabytes of Census submitted data over the course of four decades (1960 - 1990) 
 
+- 🌱 I’m currently studying for my Comptia Linux+ Certification 
 
+### 🛠 &nbsp;Languages :
+
+<img title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" />
+<img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40" />
+<img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img title="AlpineJS" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40" />
+<img title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
+<img title="Anaconda" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
+
+<!--
+<img title="" src="" width="40" height="40" />
+<img title="" src="" width="40" height="40" />
+-->
 
 <!--
 **OldKayakFisherman/oldkayakfisherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
