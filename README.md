@@ -28,8 +28,8 @@ in creating python based indexing and workflow tools that index and process over
 
 ### 🛠 &nbsp;Languages :
 
-<img title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" />
-<img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40" />
+<img style="display: inline-block" title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" />
+<img style="display: inline-block" title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40" />
 <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img title="AlpineJS" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40" />
 <img title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
