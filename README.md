@@ -24,16 +24,44 @@ dynamic, well tested, data driven enterprise applications using .NET and Python 
 - 🔭 I’m currently working on supporting the Census [Decennial Census Digitization and Linkage (DCDL) Project](https://www.census.gov/programs-surveys/dcdl.html)
 in creating python based indexing and workflow tools that index and process over 4 Petabytes of Census submitted data over the course of four decades (1960 - 1990) 
 
-- 🌱 I’m currently studying for my Comptia Linux+ Certification 
+- 🌱 I’m currently studying for my RHCSA Certification 
 
 ### 🛠 &nbsp;Languages :
 <div style="display: inline-block">
-<img title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" />
-<img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40" />
-<img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img title="AlpineJS" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40" />
-<img title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
-<img title="Anaconda" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
+    <img title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" />
+    <img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40" />
+    <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+</div>
+
+### 🛠 &nbsp;Frameworks :
+<div style="display: inline-block">
+
+</div>
+
+### 🛠 &nbsp;Tools :
+<div style="display: inline-block">
+    <img title="Anaconda" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
+
+    <img title="Ansible" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40" height="40" />
+
+
+
+</div>
+
+### 🛠 &nbsp;Platforms :
+<div style="display: inline-block">
+
+    <img title="AlpineJS" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40" />
+    
+    <img title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
+
+</div>
+
+### :briefcase: &nbsp;Certifications
+<div  style="display: inline-block">
+    <img title="Linux+" src="Linux+ ce certified logo.jpg" width="40" height="40" />
+    <img title="Security+" src="SecurityPlus Logo Certified CE.jpg" width="40" height="40" />
 </div>
 
 <!--
