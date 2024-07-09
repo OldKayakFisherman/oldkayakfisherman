@@ -37,6 +37,22 @@ in creating python based indexing and workflow tools that index and process over
 ### 🛠 &nbsp;Frameworks :
 <div style="display: inline-block">
 
+<img title="Backbone" src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original.svg" width="40" height="40" />
+
+<img title="Blazor" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-line.svg" width="40" height="40" />
+
+<img title="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+
+<img title="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" />
+
+<img title="Dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40" />
+
+<img title="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" width="40" height="40" />
+
+<img title="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" />
+
+
+
 </div>
 
 ### 🛠 &nbsp;Tools :
@@ -45,6 +61,16 @@ in creating python based indexing and workflow tools that index and process over
 <img title="Anaconda" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
 
 <img title="Ansible" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40" height="40" />
+
+<img title="Apache" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="40" height="40" />
+
+<img title="Axios" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" width="40" height="40" />
+
+<img title="Datagrip" src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" width="40" height="40" />
+
+<img title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" />
+
+
 
 
 
@@ -57,7 +83,26 @@ in creating python based indexing and workflow tools that index and process over
     
 <img title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
 
+<img title="CentOS" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" width="40" height="40" />
+
+<img title="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="40" height="40" />
+
+<img title="Fedora" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40" height="40" />
+
+
+
 </div>
+
+### 🛠 &nbsp;Scripting :
+<div style="display: inline-block">
+
+<img title="awk" src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" width="40" height="40" />
+
+<img title="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" />
+
+
+</div>
+
 
 ### :briefcase: &nbsp;Certifications
 <div  style="display: inline-block">
