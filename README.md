@@ -13,8 +13,7 @@
 
 ### About me
 
-<p>Technology professional with over twenty-five years of extensive experience in all aspects of the software
-development/support life cycle.</p> 
+<p>Technology professional with over twenty-five years of extensive experience in all aspects of the software development/support life cycle.</p> 
 
 <p>
 Primary area of expertise is building, deploying, and maintaining secure,
@@ -28,9 +27,11 @@ in creating python based indexing and workflow tools that index and process over
 
 ### 🛠 &nbsp;Languages :
 <div style="display: inline-block">
-    <img title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" />
-    <img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40" />
-    <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" />
+<img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40" />
+<img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img title="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" />
+<img title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />
 
 </div>
 
@@ -51,6 +52,11 @@ in creating python based indexing and workflow tools that index and process over
 
 <img title="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" />
 
+<img title="Knockout" src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-plain-wordmark.svg" width="40" height="40" />
+
+<img title="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40" />
+
+
 
 
 </div>
@@ -70,8 +76,29 @@ in creating python based indexing and workflow tools that index and process over
 
 <img title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" />
 
+<img title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40" />
 
+<img title="Github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" />
 
+<img title="Gitlab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40" />
+
+<img title="Goland" src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-plain.svg" width="40" height="40" />
+
+<img title="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
+
+<img title="IntelliJ" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="40" height="40" />
+
+<img title="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40" height="40" />
+
+<img title="Jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40" height="40" />
+
+<img title="JQuery" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="40" height="40" />
+
+<img title="json" src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" width="40" height="40" />
+
+<img title="JUnit" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="40" height="40" />
+
+<img title="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 
 
 </div>
@@ -88,6 +115,11 @@ in creating python based indexing and workflow tools that index and process over
 <img title="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="40" height="40" />
 
 <img title="Fedora" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40" height="40" />
+
+<img title="Fedora" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
+
+<img title="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
+
 
 
 
