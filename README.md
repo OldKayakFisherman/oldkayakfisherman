@@ -41,9 +41,10 @@ in creating python based indexing and workflow tools that index and process over
 
 ### 🛠 &nbsp;Tools :
 <div style="display: inline-block">
-    <img title="Anaconda" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
 
-    <img title="Ansible" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40" height="40" />
+<img title="Anaconda" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
+
+<img title="Ansible" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40" height="40" />
 
 
 
@@ -52,9 +53,9 @@ in creating python based indexing and workflow tools that index and process over
 ### 🛠 &nbsp;Platforms :
 <div style="display: inline-block">
 
-    <img title="AlpineJS" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40" />
+<img title="AlpineJS" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40" />
     
-    <img title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
+<img title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
 
 </div>
 
