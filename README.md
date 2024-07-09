@@ -32,6 +32,8 @@ in creating python based indexing and workflow tools that index and process over
 <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img title="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" />
 <img title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />
+<img title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40" />
+
 
 </div>
 
@@ -56,6 +58,25 @@ in creating python based indexing and workflow tools that index and process over
 
 <img title="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40" />
 
+<img title="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40" />
+
+<img title="Vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+
+
+</div>
+
+### 🛠 &nbsp;Databases :
+<div style="display: inline-block">
+
+<img title="Sql Server" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" />
+
+<img title="MySql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+
+<img title="Oracle" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40" />
+
+<img title="Oracle" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="40" height="40" />
+
+<img title="Oracle" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" />
 
 
 
@@ -100,6 +121,27 @@ in creating python based indexing and workflow tools that index and process over
 
 <img title="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 
+<img title="Neovim" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" width="40" height="40" />
+
+<img title="Nginx" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40" />
+
+<img title="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
+
+<img title="npm" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+
+<img title="nuget" src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" width="40" height="40" />
+
+<img title="PHPStorm" src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain.svg" width="40" height="40" />
+
+<img title="PODMan" src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-plain.svg" width="40" height="40" />
+
+<img title="PostMan" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" width="40" height="40" />
+
+<img title="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" />
+
+<img title="SQLAlchemy" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-plain.svg" width="40" height="40" />
+
+
 
 </div>
 
@@ -116,10 +158,13 @@ in creating python based indexing and workflow tools that index and process over
 
 <img title="Fedora" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40" height="40" />
 
-<img title="Fedora" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
-
 <img title="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
 
+<img title="OpenSuse" src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original.svg" width="40" height="40" />
+
+<img title="Redhat" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="40" height="40" />
+
+<img title="Rocky Linux" src="https://github.com/devicons/devicon/blob/master/icons/rockylinux/rockylinux-original.svg" width="40" height="40" />
 
 
 
@@ -131,6 +176,9 @@ in creating python based indexing and workflow tools that index and process over
 <img title="awk" src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" width="40" height="40" />
 
 <img title="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" />
+
+<img title="Powershell" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg" width="40" height="40" />
+
 
 
 </div>
